@@ -92,4 +92,23 @@ SOFTWARE.
 [Back To The Top](#read-me-template)
 
 
+# Landing Page
 
+![](https://github.com/mehfoozkhangithub/First-Post/blob/main/img/Screenshot_20221101_120853.png?raw=true)
+
+# Navbar 
+
+![](https://github.com/mehfoozkhangithub/First-Post/blob/main/img/Screenshot_20221101_121040.png?raw=true)
+
+# SideBar many option 
+
+![](https://github.com/mehfoozkhangithub/First-Post/blob/main/img/Screenshot_20221101_120943.png?raw=true)
+
+# Category of  `NEWS`
+
+![](https://github.com/mehfoozkhangithub/First-Post/blob/main/img/Screenshot_20221101_121012.png?raw=true)
+
+
+# Footer
+
+![](https://github.com/mehfoozkhangithub/First-Post/blob/main/img/Screenshot_20221101_120925.png?raw=true)
