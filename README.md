@@ -112,3 +112,6 @@ SOFTWARE.
 # Footer
 
 ![](https://github.com/mehfoozkhangithub/First-Post/blob/main/img/Screenshot_20221101_120925.png?raw=true)
+
+
+[Deployed-Project](https://adorable-halva-74275f.netlify.app)
